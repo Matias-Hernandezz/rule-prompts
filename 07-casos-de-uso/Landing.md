@@ -1,0 +1,11 @@
+AGENTS.md
++
+anti-generic.md
++
+design-direction.md
++
+frontend-architecture.md
++
+responsive.md
++
+animations.md

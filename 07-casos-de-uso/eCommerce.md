@@ -1,0 +1,11 @@
+AGENTS.md
++
+design-direction.md
++
+frontend-architecture.md
++
+ecommerce.md
++
+database-design.md
++
+security.md

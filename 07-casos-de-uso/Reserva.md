@@ -1,0 +1,15 @@
+AGENTS.md
++
+design-direction.md
++
+frontend-architecture.md
++
+backend-architecture.md
++
+database-design.md
++
+data-integrity.md
++
+booking-system.md
++
+security.md
